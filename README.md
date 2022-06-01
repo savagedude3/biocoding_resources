@@ -92,7 +92,7 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 
 
-Misc
+## Misc
 
 Lots of course materials on Github, particularly from JHU faculty jtleek, bcaffo, and stephaniehicks.
 
