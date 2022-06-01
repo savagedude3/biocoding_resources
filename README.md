@@ -29,117 +29,66 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [Data Carpentries](https://carpentries.org/) Lots of "lessons" on different basic CS & data stuff
 
-scRNAseq workshop & others are recorded in CZI schedule Computational Biology Office Hours - Neurodegeneration Challenge Network (chanzuckerberg.com) 
+[ROSALIND](http://rosalind.info/problems/list-view/) - Bioinformatics problem sets and forum
 
-Choose youR own Pythway (openscapes.github.io) 
-
-^Website from pandemic-era CZI compsci meetings with links to resources
-
-ROSALIND | Problems 
-
-^Bioinformatics problem sets and forum
-
-prog4biol/pfb2019: Programming for Biology 2019 (github.com)
-
-^Beginner programming for biology from CSHL course
-
-https://biovcnet.github.io/
-
-^Group Krissy suggested has good Youtube videos
-
-griffithlab/rnaseq_tutorial (github.com)
-
-^Most of the material from the "Advanced Sequencing Technologies & Bioinformatics Analysis" CSHL course
+[prog4biol/pfb2019: Programming for Biology 2019](https://github.com/prog4biol/pfb2019) - Beginner programming for biology from CSHL course
 
 
 ## Learning Command Line
 
-command-line bootcamp (cli-boot.camp) 
+[command-line bootcamp](https://cli-boot.camp/?id=ajx5volzim) - Exercises for learning how to use the Unix command line
 
-^Exercises for learning how to use the Unix command line
-
-Advanced Bash-Scripting Guide (tldp.org) 
-
-^Unix textbook from beginner to intermediate shell scripting
+[Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Unix textbook from beginner to intermediate shell scripting
 
 
 ## Learning Python
 
-jakevdp/PythonDataScienceHandbook: Python Data Science Handbook: full text in Jupyter Notebooks (github.com) 
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Free book and accompanying Jupyter notebooks
 
-^Free book and accompanying Jupyter notebooks
+[A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Free book for people that already know how to program in another language who want to switch over to Python. I appreciate its brevity, and think it may even be useful for beginners who just want to see what's possible with Python and then can look up the specific thing they need elsewhere for more detail.
 
-A Whirlwind Tour of Python | A Whirlwind Tour of Python (jakevdp.github.io) 
+[Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing/home/welcome) - Good introduction to data structures as they apply to sequence alignment. Taught in Python
 
-^Free book for people that already know how to program in another language who want to switch over to Python. I appreciate its brevity, and think it may even be useful for beginners who just want to see what's possible with Python and then can look up the specific thing they need elsewhere for more detail.
+[Biopython Tutorial and Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html) - official tutorial of Biopython, a collection of many bioinformatics tools for Python
 
-Algorithms for DNA Sequencing - Home | Coursera
-
-^Good introduction to data structures as they apply to sequence alignment. Taught in Python
-
-Biopython Tutorial and Cookbook 
-
-^official tutorial of Biopython, a collection of many bioinformatics tools for Python
-
-cuttlefishh/python-for-data-analysis: An introduction to data science using Python and Pandas with Jupyter notebooks (github.com) 
-
-^recommended from CYOP
+[Python for data analysis](https://github.com/cuttlefishh/python-for-data-analysis) - intro to data science using Python
 
 
 ## Learning ImageJ Macros
 
-Macro Language (nih.gov) 
+[ImageJ Macro Language](https://imagej.nih.gov/ij/developer/macro/macros.html) - Basics to how the ImageJ macro language works
 
-^Basics to how the ImageJ macro language works
-
-Built-in Macro Functions (nih.gov) 
-
-^List of functions available in the ImageJ macro language
+[Built-in Macro Functions](https://imagej.nih.gov/ij/developer/macro/functions.html) - List of functions available in the ImageJ macro language
 
 *Ask Justin, there isn't really a good resource for this, and I've spent a lot of time learning it.
 
 
 ## Analyzing Images with Python
 
-napari tutorials - napari 
+[napari tutorials](https://napari.org/tutorials/index.html) - tutorials for napari, an image viewer for Python from CZI
 
-scikit-image: Image processing in Python — scikit-image
+[scikit-image](https://scikit-image.org/) - a package of tools for image analysis in Python
 
-Learning R
 
-Welcome | R for Data Science (had.co.nz) 
+## Learning R
 
-^Great, free beginner book for data analysis and visualization using R
-
-Bioconductor for Genomic Data Science | Coursera
-
-^Coursera course from JHU about using Bioconductor R packages for genomic data analysis
+[R for Data Science](https://r4ds.had.co.nz/) - Great, free beginner book for data analysis and visualization using R
 
 
 ## Machine Learning
 
-Introduction to Machine Learning | Coursera 
+[Introduction to Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning-duke) - Coursera course from Duke with a good introduction to the fundamental ideas behind machine learning. Some coding examples to reinforce concepts, but not very practical for us.
 
-^Coursera course from Duke with a good introduction to the fundamental ideas behind machine learning. Some coding examples to reinforce concepts, but not very practical for us.
+[Deep Learning for the Life Sciences](https://find.library.duke.edu/catalog/DUKE010171455) - Textbook around DeepChem Python package for life science ML. Includes all biology examples such as TF binding to DNA and U-Net-based microscopy image segmentation.
 
-Deep Learning for the Life Sciences - Duke University Libraries Catalog 
-
-^Textbook around DeepChem Python package for life science ML. Includes all biology examples such as TF binding to DNA and U-Net-based microscopy image segmentation.
-
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - Duke University Libraries Catalog 
-
-^Good textbook for fundamental machine learning concepts, with good code examples.
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://find.library.duke.edu/catalog/DUKE010177485) - Good textbook for fundamental machine learning concepts, with good code examples.
 
 
 ## Developing Software
 
-BIOS 735 - Introduction to Statistical Computing (biodatascience.github.io) 
+[BIOS 735 - Introduction to Statistical Computing](https://biodatascience.github.io/statcomp/) - Class from UNC with lots on how to develop R packages
 
-^Class from UNC with lots on how to develop R packages
-
-gvwilson/mrsp-growth: Managing Research Software Projects: A Model for Personal Growth (github.com) 
-
-^workshop from someone at CZI. Takes project from 1 grad student to a full team.
+[Managing Research Software Projects: A Model for Personal Growth](https://github.com/gvwilson/mrsp-growth/) - workshop from someone at CZI. Takes project from 1 grad student to a full team.
 
 
 
@@ -147,4 +96,4 @@ Misc
 
 Lots of course materials on Github, particularly from JHU faculty jtleek, bcaffo, and stephaniehicks.
 
-HarvardX class on Biomedical Data science harvardx (rafalab.github.io) and accompanying book PH525x series - Biomedical Data Science (genomicsclass.github.io)
+HarvardX class on Biomedical Data science [harvardx rafalab.github.io](http://rafalab.github.io/pages/harvardx.html) and accompanying book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
