@@ -17,6 +17,8 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [The digital cell : cell biology as a data science - Duke University Libraries Catalog](https://find.library.duke.edu/catalog/DUKE009776723) - Great book with intro to using computational methods in cell biology. *There is a print copy in the library and I also have one at my desk in the lab.
 
+[Duke Computational Biology Reading Group](https://www.youtube.com/playlist?list=PL9qLtkRkGWLflJ0fraL-fW9vYJ8SZLpF1) - Great youtube videos for learning computational biology with accompanying R package to easily follow along on your machine.
+
 [Computational Genomics with R](https://compgenomr.github.io/book/) - Computational Genomics Book with good bio intro and R applications
 
 [Introduction to Computational Biology](https://biodatascience.github.io/compbio/) - Class site from UNC PI and DESeq2 author Mike Love. Includes R markdown pages for each class an lots of references.
