@@ -15,27 +15,17 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 ## Learning Bioinformatics (General)
 
-The digital cell : cell biology as a data science - Duke University Libraries Catalog 
+[The digital cell : cell biology as a data science - Duke University Libraries Catalog](https://find.library.duke.edu/catalog/DUKE009776723) - Great book with intro to using computational methods in cell biology. *There is a print copy in the library and I also have one at my desk in the lab.
 
-^Great book with intro to using computational methods in cell biology. *There is a print copy in the library and I also have one at my desk in the lab.
+[Computational Genomics with R](https://compgenomr.github.io/book/) - Computational Genomics Book with good bio intro and R applications
 
-Computational Genomics with R (compgenomr.github.io)
+[Introduction to Computational Biology](https://biodatascience.github.io/compbio/) - Class site from UNC PI and DESeq2 author Mike Love. Includes R markdown pages for each class an lots of references.
 
-^Computational Genomics Book with good bio intro and R applications
+[R Bioinformatics Cookbook: Use R and Bioconductor to Perform RNAseq, Genomics, Data Visualization, and Bioinformatic Analysis](https://find.library.duke.edu/catalog/DUKE010193098) - Protocols for many different bioinformatics tasks in R
 
-Introduction to Computational Biology (biodatascience.github.io) 
+[Bioinformatics data skills](https://find.library.duke.edu/catalog/DUKE010166735) - General principles for efficient bioinformatics work using Unix and R
 
-^Class site from UNC PI and DESeq2 author Mike Love. Includes R markdown pages for each class an lots of references.
-
-R Bioinformatics Cookbook: Use R and Bioconductor to Perform RNAseq, Genomics, Data Visualization, and Bioinformatic Analysis - Duke University Libraries Catalog 
-
-^Protocols for many different bioinformatics tasks in R
-
-Bioinformatics data skills - Duke University Libraries Catalog 
-
-^General principles for efficient bioinformatics work using Unix and R
-
-Lots of "lessons" on different basic CS & data stuff The Carpentries
+[Data Carpentries](https://carpentries.org/) Lots of "lessons" on different basic CS & data stuff
 
 scRNAseq workshop & others are recorded in CZI schedule Computational Biology Office Hours - Neurodegeneration Challenge Network (chanzuckerberg.com) 
 
