@@ -83,6 +83,8 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://find.library.duke.edu/catalog/DUKE010177485) - Good textbook for fundamental machine learning concepts, with good code examples.
 
+[MIT Deep Learning in the Life Sciences](https://mit6874.github.io/)
+
 
 ## Developing Software
 
