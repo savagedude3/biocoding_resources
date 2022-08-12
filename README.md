@@ -1,5 +1,5 @@
 # biocoding_resources
-Welcome to my CS Learning Tools page. I have links to resources for learning computational skills organized by language or application. I update the list whenever I find a good new resource. 
+Welcome to my CS Learning Tools page. I have links to resources for learning computational skills organized by language or application. I update the list whenever I find a good new resource. A lot of the books are links to the Duke library site. If you are not affiliated with Duke, check your local university library or bookstore.
 
 Not sure where to start? Here is a list of the best beginner resources.
 
@@ -83,8 +83,6 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://find.library.duke.edu/catalog/DUKE010177485) - Good textbook for fundamental machine learning concepts, with good code examples.
 
-[MIT Deep Learning in the Life Sciences](https://mit6874.github.io/)
-
 
 ## Developing Software
 
@@ -92,6 +90,11 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [Managing Research Software Projects: A Model for Personal Growth](https://github.com/gvwilson/mrsp-growth/) - workshop from someone at CZI. Takes project from 1 grad student to a full team.
 
+## Academia
+
+[How to write a lot : a practical guide to productive academic writing](https://find.library.duke.edu/catalog/DUKE009281520)
+
+[The professor is in : The Essential Guide To Turning Your Ph.D. Into a Job](https://find.library.duke.edu/catalog/DUKE006689419)
 
 
 ## Misc
@@ -99,3 +102,5 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 Lots of course materials on Github, particularly from JHU faculty jtleek, bcaffo, and stephaniehicks.
 
 HarvardX class on Biomedical Data science [harvardx rafalab.github.io](http://rafalab.github.io/pages/harvardx.html) and accompanying book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+
+[MIT Deep Learning in the Life Sciences](https://mit6874.github.io/)
