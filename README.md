@@ -1,7 +1,7 @@
 # biocoding_resources
 Welcome to my CS Learning Tools page. I have links to resources for learning computational skills organized by language or application. I update the list whenever I find a good new resource. A lot of the books are links to the Duke library site. If you are not affiliated with Duke, check your local university library or bookstore.
 
-You can easily share this page using the Bitly link [https://bit.ly/Biocoding](https://bit.ly/Biocoding)
+You can easily share this page using the Bitly link [https://bit.ly/Biocoding](https://bit.ly/Biocoding) or the QR code below.
 
 Not sure where to start? Here is a list of the best beginner resources.
 
