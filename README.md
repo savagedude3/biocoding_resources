@@ -3,6 +3,8 @@ Welcome to my CS Learning Tools page. I have links to resources for learning com
 
 You can easily share this page using the Bitly link [https://bit.ly/Biocoding](https://bit.ly/Biocoding) or the QR code below.
 
+![biocoding QR code](https://github.com/savagedude3/biocoding_resources/blob/main/bit.ly_Biocoding.png)
+
 Not sure where to start? Here is a list of the best beginner resources.
 
 I want to really learn to program in a language I can apply to many applications: Try Python
