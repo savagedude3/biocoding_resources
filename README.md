@@ -74,6 +74,11 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 [scikit-image](https://scikit-image.org/) - a package of tools for image analysis in Python
 
 
+## Learning Image Analysis (General)
+
+[ASCB Guidelines for color-blind accessible data visualization](https://www.ascb.org/science-news/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/)
+
+
 ## Learning R
 
 [R for Data Science](https://r4ds.had.co.nz/) - Great, free beginner book for data analysis and visualization using R
