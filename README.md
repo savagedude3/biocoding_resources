@@ -37,6 +37,9 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [prog4biol/pfb2019: Programming for Biology 2019](https://github.com/prog4biol/pfb2019) - Beginner programming for biology from CSHL course
 
+## Learning Data Science (General)
+
+[Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) - great paper about how data should be organized to cut down on ambiguity and redundancy. Also makes data very easy to analyze with something like R or Python (via the Pandas package)
 
 ## Learning Command Line
 
