@@ -110,6 +110,11 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [The professor is in : The Essential Guide To Turning Your Ph.D. Into a Job](https://find.library.duke.edu/catalog/DUKE006689419)
 
+## Adobe Illustrator
+
+[Aligning objects in Adobe Illustrator](https://helpx.adobe.com/illustrator/using/moving-aligning-distributing-objects.html)
+
+[Aligning objects to a key object in Adobe Illustrator](https://iamsteve.me/blog/illustrator-quick-tip-align-to-key-object)
 
 ## Misc
 
