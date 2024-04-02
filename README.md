@@ -69,7 +69,7 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [Intro to ImageJ Macros Powerpoint](https://github.com/savagedude3/introImageJMacros) - presentation I made on getting started with ImageJ macros
 
-*Ask Justin, there isn't really a good resource for this, and I've spent a lot of time learning it.
+[Analyzing fluorescence microscopy images with ImageJ](https://petebankhead.gitbooks.io/imagej-intro/content/) - GitBook on ImageJ image analysis
 
 
 ## Analyzing Images with Python
