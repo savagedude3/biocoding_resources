@@ -86,7 +86,7 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 ## Learning R
 
-[R for Data Science](https://r4ds.had.co.nz/) - Great, free beginner book for data analysis and visualization using R
+[R for Data Science](https://r4ds.hadley.nz/) - Great, free beginner book for data analysis and visualization using R
 
 
 ## Machine Learning
