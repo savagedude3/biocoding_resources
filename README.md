@@ -88,6 +88,22 @@ I want to analyze images: Try The Digital Cell (only in print), ImageJ Macro lan
 
 [R for Data Science](https://r4ds.hadley.nz/) - Great, free beginner book for data analysis and visualization using R
 
+## Learning Bulk Sequencing Analysis 
+
+[Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/08-chap.html) - Helpful book for applying to statistics to biology with a chapter that specifically explains analysis of sequencing count data including differential expression analysis with DESeq2.
+
+## Learning single cell RNA sequencing Analysis
+
+[Seurat Tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial) - Standard package for scRNAseq analysis in R
+
+[Scanpy Tutorial](https://scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html) - Standard package for scRNAseq analysis in Python. Preferred over Seurat since it is much faster and is more easily compatible with newly developed Python tools like scVI and scCODA.
+
+[Single Cell Best Practices](https://www.sc-best-practices.org/preamble.html) - Helpful book for basic and advanced methods for scRNAseq analysis
+
+[Cell Ranger Tutorial](https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in) - Command line software for analyzing raw data from 10x single cell sequencing
+
+[PIPseeker User Guide](https://www.fluentbio.com/products/pipseeker-software-for-data-analysis/) - Command line software for analyzing raw data from PIPseq, a cheaper alternative to 10x.
+
 
 ## Machine Learning
 
